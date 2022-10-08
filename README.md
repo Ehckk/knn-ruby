@@ -1,0 +1,1 @@
+Simple KNN algorithm made in Ruby so I can better learn the fundamentals/intermmdiary concepts of the language

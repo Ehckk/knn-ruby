@@ -71,7 +71,7 @@ end
 input = 0
 knn = KNN.new()
 while input != 4
-	puts <<~MENU 
+	puts <<~MENU
 KNN Demo - Ruby
 Select an option:
 	1. Generate points
